@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2339ca3-8966-4116-a53c-07bb06383c10" name="Changes" comment="">
+    <list default="true" id="d2339ca3-8966-4116-a53c-07bb06383c10" name="Changes" comment="learn set,tuple and dict">
+      <change afterPath="$PROJECT_DIR$/01_python_fundamental/day7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +106,21 @@
       <option name="presentableId" value="Default" />
       <updated>1770532522861</updated>
     </task>
+    <task id="LOCAL-00001" summary="learn set,tuple and dict">
+      <created>1781952552687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781952552687</updated>
+    </task>
+    <task id="LOCAL-00002" summary="learn set,tuple and dict">
+      <created>1781952568273</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781952568273</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,5 +133,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learn set,tuple and dict" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn set,tuple and dict" />
   </component>
 </project>
