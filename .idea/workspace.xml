@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2339ca3-8966-4116-a53c-07bb06383c10" name="Changes" comment="learn functions">
+    <list default="true" id="d2339ca3-8966-4116-a53c-07bb06383c10" name="Changes" comment="learn OOPS in Class,Object and magic methods">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python_fundamental/day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_python_fundamental/day7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_python_fundamental/day8.py" beforeDir="false" afterPath="$PROJECT_DIR$/02OOPS/day8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
       <recent name="D:\Advanced_python_practice\17Async Programming" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PYTHON\Advanced_python_practice\02OOPS" />
       <recent name="D:\Python_with_Chai_Aur_Code\Type Hinting" />
     </key>
   </component>
@@ -135,7 +135,21 @@
       <option name="project" value="LOCAL" />
       <updated>1782298815720</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="learn OOPS in Class,Object and magic methods">
+      <created>1782567946619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782567946619</updated>
+    </task>
+    <task id="LOCAL-00006" summary="learn OOPS in Class,Object and magic methods">
+      <created>1782567956710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782567956710</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learn set,tuple and dict" />
     <MESSAGE value="learn functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn functions" />
+    <MESSAGE value="learn OOPS in Class,Object and magic methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn OOPS in Class,Object and magic methods" />
   </component>
 </project>
