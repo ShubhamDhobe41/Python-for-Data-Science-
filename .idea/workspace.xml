@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2339ca3-8966-4116-a53c-07bb06383c10" name="Changes" comment="learn OOPS in Class,Object and magic methods">
+    <list default="true" id="d2339ca3-8966-4116-a53c-07bb06383c10" name="Changes" comment="learn OOPS in attributes,reference variable , pass by reference , object mutability">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python_fundamental/day8.py" beforeDir="false" afterPath="$PROJECT_DIR$/02OOPS/day8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1782567956710</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="learn OOPS in attributes,reference variable , pass by reference , object mutability">
+      <created>1782841408525</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782841408525</updated>
+    </task>
+    <task id="LOCAL-00008" summary="learn OOPS in attributes,reference variable , pass by reference , object mutability">
+      <created>1782841425710</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782841425710</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +180,7 @@
     <MESSAGE value="learn set,tuple and dict" />
     <MESSAGE value="learn functions" />
     <MESSAGE value="learn OOPS in Class,Object and magic methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn OOPS in Class,Object and magic methods" />
+    <MESSAGE value="learn OOPS in attributes,reference variable , pass by reference , object mutability" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn OOPS in attributes,reference variable , pass by reference , object mutability" />
   </component>
 </project>
